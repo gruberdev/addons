@@ -10,7 +10,7 @@ arch:
 boot: manual
 hassio_api: true
 hassio_role: homeassistant
-image: docker.io/grubertech/git_pull
+image: grubertech/addon-git-pull
 init: false
 map:
 - config:rw
